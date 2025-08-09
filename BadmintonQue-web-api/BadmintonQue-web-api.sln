@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadmintonQue-web-api", "BadmintonQue-web-api\BadmintonQue-web-api.csproj", "{BBE693AD-0F46-4BEF-AEDB-DCB0C8A7DBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE693AD-0F46-4BEF-AEDB-DCB0C8A7DBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE693AD-0F46-4BEF-AEDB-DCB0C8A7DBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE693AD-0F46-4BEF-AEDB-DCB0C8A7DBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE693AD-0F46-4BEF-AEDB-DCB0C8A7DBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCBF0D4-1D1E-40B9-B82B-3D0857FD24CD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "20T1WXF8eV0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RRA\\source\\repos\\Personal Project\\BadmintonQue-web-api\\BadmintonQue-web-api\\BadmintonQue-web-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RRA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\RRA\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

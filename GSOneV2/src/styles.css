@@ -1,0 +1,141 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap-grid.css";
+@import "bootstrap/dist/css/bootstrap-grid.rtl.css";
+@import "bootstrap/dist/css/bootstrap-reboot.css";
+@import "bootstrap/dist/css/bootstrap-reboot.rtl.css";
+@import "bootstrap/dist/css/bootstrap-utilities.css";
+@import "bootstrap/dist/css/bootstrap-utilities.rtl.css";
+@import "bootstrap/dist/css/bootstrap.css";
+@import "bootstrap/dist/css/bootstrap.rtl.css";
+
+
+/* global custom css */
+
+@media (min-width: 300px) {
+  .col-lg-6{
+    flex: 0 0 auto;
+    width: 65%;
+  }
+
+  .col-md-13{
+    flex: 0 0 auto;
+    width: 91%;
+  }
+}
+
+
+@media (min-width: 576px) {
+  .fs-7{
+    font-size: 1rem !important;
+  }
+  .px-6 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  }
+
+  .py-6 {
+    padding-top: 0.50rem !important;
+    padding-bottom: 0.50rem !important;
+  }
+
+  .mt-6{
+    margin-top: 6rem !important;
+  }
+
+  .col-lg-6{
+    flex: 0 0 auto;
+    width: 57%;
+  }
+
+  .col-md-13{
+    flex: 0 0 auto;
+    width: 91%;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .fs-7{
+    font-size: 1rem !important;
+  }
+  .px-6 {
+    padding-right: 1.75rem !important;
+    padding-left: 1.75rem !important;
+  }
+
+  .py-6 {
+    padding-top: 0.60rem !important;
+    padding-bottom: 0.60rem !important;
+  }
+
+  .mt-6{
+    margin-top: 6rem !important;
+  }
+
+  .col-lg-6{
+    flex: 0 0 auto;
+    width: 52.39%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-6{
+    flex: 0 0 auto;
+    width: 38.33%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .fs-7{
+    font-size: 1rem !important;
+  }
+  .px-6 {
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+  }
+
+  .py-6 {
+    padding-top: 0.70rem !important;
+    padding-bottom: 0.70rem !important;
+  }
+
+  .mt-6{
+    margin-top: 6rem !important;
+  }
+
+  .col-lg-6{
+    flex: 0 0 auto;
+    width: 30.64%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .px-6 {
+    padding-right: 2.75rem !important;
+    padding-left: 2.75rem !important;
+  }
+
+  .py-6 {
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+  }
+
+  .mt-6{
+    margin-top: 6rem !important;
+  }
+
+  .col-lg-6{
+    flex: 0 0 auto;
+    width: 27%;
+  }
+
+  .br-1{
+    border-radius: 5px;
+    border: 1px solid #6c757d;
+  }
+
+  .col-md-13{
+    flex: 0 0 auto;
+    width: 90%;
+  }
+}
